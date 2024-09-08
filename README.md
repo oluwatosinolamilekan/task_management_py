@@ -10,7 +10,7 @@ Prerequisites
 ## Installation
 ```
     git clone 
-    cd task_managment_py
+    cd task_management_py
 ```
 
 ## Set Up a Virtual Environment (Optional but Recommended)
@@ -34,6 +34,10 @@ Use the `requirements.txt` file to install the necessary Python packages:
 
 This will install Flask and all required dependencies.
 
+```
+pip install -r requirements.txt
+
+```
 
 ## Running the Flask Server
  To start the Flask development server, run the following command:
@@ -44,7 +48,7 @@ This will install Flask and all required dependencies.
 Or, if using python3:
 
 ```
- python3 task_service.py
+ python3 app.py
 ```
 
 The API will now be running at http://localhost:5000 or   http://127.0.0.1:5000
