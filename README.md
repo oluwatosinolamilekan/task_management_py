@@ -61,7 +61,6 @@ The API will now be running at http://localhost:5000 or   http://127.0.0.1:5000
     ```json
         {
             "name": "Task Name",
-            "description": "Task Description"
         }
     ```
 - Response
