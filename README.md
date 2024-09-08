@@ -35,8 +35,7 @@ Use the `requirements.txt` file to install the necessary Python packages:
 This will install Flask and all required dependencies.
 
 ```
-pip install -r requirements.txt
-
+    pip install -r requirements.txt
 ```
 
 ## Running the Flask Server
